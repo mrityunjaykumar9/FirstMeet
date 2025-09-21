@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "651194984940",
+    "project_id": "fluenthub-e16d8",
+    "storage_bucket": "fluenthub-e16d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651194984940:android:ceb9b3dc2020a9fbaef8c9",
+        "android_client_info": {
+          "package_name": "com.groupvoicechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651194984940-3fm41d04anrg2hk2qu4tjp51a0u9qel5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groupvoicechat",
+            "certificate_hash": "004bd44827fc43cf33f9758b0ccb7c43ca76105d"
+          }
+        },
+        {
+          "client_id": "651194984940-965vrcif4o5n8odid4pek7dp0jpfb01s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA5hJnrVqSOuJD_MLlW52b9VucPogg7cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651194984940-965vrcif4o5n8odid4pek7dp0jpfb01s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651194984940-dl0c9bt39jq89s4opo9u8nl3ejjj633d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.groupvoicechat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

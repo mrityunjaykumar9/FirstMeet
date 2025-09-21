@@ -1,4 +1,4 @@
-package com.group_voice_chat
+package com.groupvoicechat
 
 import android.app.Application
 import com.facebook.react.PackageList

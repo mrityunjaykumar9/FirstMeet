@@ -1,4 +1,4 @@
-package com.group_voice_chat
+package com.groupvoicechat
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
