@@ -1,17 +1,16 @@
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
+import MultiChatRoom from "./room/MultiChatRoom";
+import RoomListScreen from "./room/RoomListScreen";
 
 const CreateRoom: React.FC = () => {
   return (
-    <View style={styles.container}>
-      <Text style={styles.text}>Create Room Page</Text>
-    </View>
+      <RoomListScreen />
   );
 };
 
 const styles = StyleSheet.create({
-  container: { flex: 1, alignItems: "center", justifyContent: "center" },
-  text: { fontSize: 20, fontWeight: "bold" },
+  container: { flex: 1 },
 });
 
 export default CreateRoom;
