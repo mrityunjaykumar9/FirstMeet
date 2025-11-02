@@ -205,7 +205,7 @@ import LinearGradient from 'react-native-linear-gradient';
           const room_name = roomName || "myroom";
           const baseURL =
           Platform.OS === "android"
-              ? "http://192.168.1.10:3000"
+              ? "http://192.168.1.2:3000"
               : "http://10.0.2.2:3000";
 
           const apiURL = `${baseURL}/getToken?room=${encodeURIComponent(room_name)}&user=${encodeURIComponent(user_name)}`;
